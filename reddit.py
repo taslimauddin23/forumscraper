@@ -1,4 +1,3 @@
-pip install streamlit asyncpraw nest_asyncio
 import streamlit as st
 import asyncpraw
 import asyncio
